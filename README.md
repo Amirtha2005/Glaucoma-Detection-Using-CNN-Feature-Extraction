@@ -3,10 +3,9 @@ This project implements a Convolutional Neural Network (CNN) model to classify f
 
 # 📁 Dataset Structure
 The dataset used in this project contains two categories:
-glaucoma_data/
-├── train/
-│ ├── NRG/ # Normal retinal images
-│ └── RG/ # Glaucoma retinal images
+glaucoma_data/train/
+1. NRG/ # Normal retinal images
+2. RG/ # Glaucoma retinal images
 
 
 ---
